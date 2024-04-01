@@ -1,0 +1,28 @@
+.post_card{
+    width: 30%;
+}
+.post_card_top img{
+    width: 100%;
+}
+.post_card_top img{
+    margin-bottom: 20px;
+}
+.post_card_bottom{
+    text-align: start;
+}
+.post_card_bottom span{
+    display: inline-block;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.post_card_bottom h5{
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+.post_card_bottom a{
+    padding: 10px 20px;
+    background: var(--btn);
+    color: var(--text);
+    display: inline-block;
+}

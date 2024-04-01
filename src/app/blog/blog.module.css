@@ -1,0 +1,14 @@
+.blog_post_wrap{
+    padding: 120px 0px ;
+    text-align: center;
+}
+.blog_post_wrap h1{
+    margin-bottom: 0;
+    font-weight: 900;
+}
+.blog_wrapper{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}

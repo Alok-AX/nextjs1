@@ -1,0 +1,26 @@
+.footer_right_col ul {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: flex-end;
+}
+.footer_right_col ul li a svg{
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    color: var(--text);
+    fill: var(--text);
+}
+.footer_right_col ul li a{
+    width: 40px;
+    height: 40px;
+    background-color: var(--btn);
+    padding: 10px;
+    border-radius: 50%;
+}
+.footer_right_col ul{
+    margin-bottom: 0;
+}
+.footer_left_col img{
+ max-width: 150px;
+}

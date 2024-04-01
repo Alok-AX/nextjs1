@@ -1,0 +1,7 @@
+.navigation_wrapper{
+    min-height: 100vh;
+    padding: 100px 0px;
+    display: flex;
+    align-items: center;
+    
+}

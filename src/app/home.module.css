@@ -1,0 +1,43 @@
+.home_wrapper{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    padding: 100px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home_button {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding-top: 20px;
+}
+.learn_more{
+  padding: 10px 25px;
+  border-radius: 10px;
+  background: var(--btn);
+  color: var(--text);
+  transition-duration: 0.5s;
+
+
+}
+.learn_more:hover{
+    background-color: var(--text);
+    color: var(--btn);
+    transition-duration: 0.5s;
+}
+.contact_btn{
+    padding: 10px 25px;
+    border-radius: 10px;
+    background: var(--text);
+    color: var(--btn);
+    transition-duration: 0.5s;
+
+}
+.contact_btn:hover{
+    background-color: var(--btn);
+    color: var(--text);
+    transition-duration: 0.5s;
+}
